@@ -11,7 +11,7 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: skmdmsk-azure-ttt
-  AZURE_WEBAPP_NAME: skmdmdk-ttt-app
+  AZURE_WEBAPP_NAME: skmdmsk-ttt-app
   ###############################################
 
 jobs:
